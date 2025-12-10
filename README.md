@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔥 I enjoy creating practical and interactive web applications.  
-- 🛒 Currently working on: **E-commerce website (HTML, CSS, JavaScript, Node.js, MongoDB)**  
+- 🛒 Currently working on: **E-commerce website using (HTML, CSS, JavaScript, Node.js, Express.js MongoDB)**  
 - 📚 Always learning new technologies to improve my skills.  
 - 📧 Contact me: **emmanuelbila76@gmail.com**
 
